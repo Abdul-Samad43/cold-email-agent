@@ -93,6 +93,8 @@ The final result is a concise, company-focused cold email with a quality score a
 | 🔐 **python-dotenv** | Environment variable management      |
 
 ---
+## 🚀 Live Demo
+[👉 Try it here](https://cold-email-agent-ddumxnlaewwu9ngpghaahi.streamlit.app/)
 
 ## 🔄 How It Works
 
